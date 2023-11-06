@@ -6,8 +6,8 @@ For each system, you need to:
 - Use inheritance, polymorphism properties in your system (1p)
 - Draw the Class diagram in UML (1p)
 - Complete all functions of the system (4p)
-- Complete the system with GUI (bonus point). 
-Remark: Don’t use Database Management System.
+- Complete the system with GUI (bonus point).
+- Remark: Don’t use Database Management System.
 
 Student tuition management: A school trains in two forms, learning credits and learning according to the model program. Depending on the type of training, the tuition fee for students is different. 
 Students studying by credit have an annual tuition fee based on the number of credits in one year * 250,000 VND, 
